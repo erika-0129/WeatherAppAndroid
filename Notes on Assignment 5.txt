@@ -1,0 +1,6 @@
+Notes on Assignment 5:
+- The current version of Android being used is 14. API is 34
+- AsyncTask depreciated in API 30
+- This app runs using threads instead
+- Note the Weather APIs provided have a limit on the forecast days that can be displayed in the free version.
+- If I wanted to display 16 days, it would incur a charge. Currently displaying 8 days

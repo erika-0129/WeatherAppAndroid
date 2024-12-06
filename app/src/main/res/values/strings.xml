@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">The Weather Wizard\'s Challenge</string>
+    <string name="API_KEY">fc03c6ba462f40cbbaa154340241707</string>
+    <string name="web_service_url">https://api.weatherapi.com/v1/forecast.json?key=%1$s&amp;q=%2$s&amp;days=10</string>
+    <string name="invalid_url">Invalid URL</string>
+    <string name="weather_condition_image">A graphical representation of the weather conditions</string>
+    <string name="high_temp">High: %s</string>
+    <string name="low_temp">Low: %s</string>
+    <string name="daily_description">%1$s: %2$s</string>
+    <string name="humidity">Humidity: %s</string>
+    <string name="hint_text">Enter city (e.g, Miami, FL, US)</string>
+    <string name="read_error">Unable to read weather data</string>
+    <string name="connect_error">Unable to connect to WeatherAPI.com</string>
+    <string name="no_data_error">No data provided</string>
+</resources>
